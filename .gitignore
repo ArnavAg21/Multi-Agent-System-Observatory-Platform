@@ -1,17 +1,6 @@
-# Python cache
-__pycache__/
-*.pyc
-*.pyo
-
-# Virtual environment
 venv/
-
-# Large dataset files
-marl_dataset/normal/*.pkl
-marl_dataset/failures/**/*.pkl
-
-# Screenshots
-Screenshot*.png
-
-# Zip archives
+__pycache__/
 *.zip
+*.pyc
+marl_dataset/normal/episode_*.pkl
+Screenshot*
