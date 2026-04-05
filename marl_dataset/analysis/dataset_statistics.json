@@ -1,137 +1,137 @@
 {
   "normal": {
-    "num_episodes": 1000,
+    "num_episodes": 300,
     "avg_length": 25.0,
     "std_length": 0.0,
-    "avg_reward": -47.72890447613615,
-    "std_reward": 12.250699076362567
+    "avg_reward": -77.46570543431234,
+    "std_reward": 21.865166645757217
   },
   "failures": {
     "communication_delay": {
-      "num_episodes": 200,
+      "num_episodes": 300,
       "avg_length": 25.0,
       "std_length": 0.0,
-      "avg_reward": -55.05135404374021,
-      "std_reward": 12.651591077662923
+      "avg_reward": -81.59997996590498,
+      "std_reward": 24.737775418166486
     },
     "observation_noise": {
-      "num_episodes": 200,
+      "num_episodes": 300,
       "avg_length": 25.0,
       "std_length": 0.0,
-      "avg_reward": -49.01574145979168,
-      "std_reward": 13.978294114961951
+      "avg_reward": -77.48368933384727,
+      "std_reward": 21.872818502437582
     },
     "observation_bias": {
-      "num_episodes": 150,
+      "num_episodes": 300,
       "avg_length": 25.0,
       "std_length": 0.0,
-      "avg_reward": -112.5096606912994,
-      "std_reward": 30.73763838653481
+      "avg_reward": -77.94954948405449,
+      "std_reward": 22.206777932684304
     },
     "action_delay": {
-      "num_episodes": 150,
+      "num_episodes": 300,
       "avg_length": 25.0,
       "std_length": 0.0,
-      "avg_reward": -55.982976720575174,
-      "std_reward": 12.130045623563737
+      "avg_reward": -143.90958001885843,
+      "std_reward": 55.17245027151926
     },
     "partial_obs_drop": {
-      "num_episodes": 150,
+      "num_episodes": 300,
       "avg_length": 25.0,
       "std_length": 0.0,
-      "avg_reward": -52.82021164607165,
-      "std_reward": 15.447201654036904
+      "avg_reward": -78.77211551045788,
+      "std_reward": 23.611407274721472
     },
     "action_corruption": {
-      "num_episodes": 200,
+      "num_episodes": 300,
       "avg_length": 25.0,
       "std_length": 0.0,
-      "avg_reward": -55.201757808232216,
-      "std_reward": 16.235697669545182
+      "avg_reward": -81.36412230823628,
+      "std_reward": 22.148753579500926
     },
     "reward_misalignment": {
-      "num_episodes": 200,
+      "num_episodes": 300,
       "avg_length": 25.0,
       "std_length": 0.0,
-      "avg_reward": -31.596985726838806,
-      "std_reward": 10.040541589569337
+      "avg_reward": -54.47586849784438,
+      "std_reward": 16.456479118245387
     },
     "reward_zero": {
-      "num_episodes": 150,
+      "num_episodes": 300,
       "avg_length": 25.0,
       "std_length": 0.0,
-      "avg_reward": -31.544643613534863,
-      "std_reward": 9.057000428987246
+      "avg_reward": -55.331221417797984,
+      "std_reward": 16.93519171508921
     },
     "action_repeat": {
-      "num_episodes": 150,
+      "num_episodes": 300,
       "avg_length": 25.0,
       "std_length": 0.0,
-      "avg_reward": -51.16251269549397,
-      "std_reward": 12.395485731905255
+      "avg_reward": -82.50763020338616,
+      "std_reward": 24.857613901731074
     },
     "message_drop": {
-      "num_episodes": 200,
+      "num_episodes": 300,
       "avg_length": 25.0,
       "std_length": 0.0,
-      "avg_reward": -64.49861843996803,
-      "std_reward": 18.88330995162722
+      "avg_reward": -78.7953831458963,
+      "std_reward": 22.65758745902804
     },
     "action_stuck_0": {
-      "num_episodes": 150,
+      "num_episodes": 300,
       "avg_length": 25.0,
       "std_length": 0.0,
-      "avg_reward": -52.31212749956494,
-      "std_reward": 14.869437638351592
+      "avg_reward": -78.11360346544737,
+      "std_reward": 25.04900553477923
     },
     "action_stuck_1": {
-      "num_episodes": 150,
+      "num_episodes": 300,
       "avg_length": 25.0,
       "std_length": 0.0,
-      "avg_reward": -64.38603242474072,
-      "std_reward": 16.69735139182475
+      "avg_reward": -93.08722450719064,
+      "std_reward": 29.315608381386852
     },
     "reward_delay": {
-      "num_episodes": 150,
+      "num_episodes": 300,
       "avg_length": 25.0,
       "std_length": 0.0,
-      "avg_reward": -49.306234637992624,
-      "std_reward": 14.24134747957068
+      "avg_reward": -78.04558098847619,
+      "std_reward": 23.383508736069018
     },
     "observation_freeze": {
-      "num_episodes": 150,
+      "num_episodes": 300,
       "avg_length": 25.0,
       "std_length": 0.0,
-      "avg_reward": -51.688661854273036,
-      "std_reward": 11.856980688136712
+      "avg_reward": -79.00740341384542,
+      "std_reward": 23.253190431822762
     },
     "reward_freeze": {
-      "num_episodes": 150,
+      "num_episodes": 300,
       "avg_length": 25.0,
       "std_length": 0.0,
-      "avg_reward": -49.10479292120827,
-      "std_reward": 12.086775700018716
+      "avg_reward": -79.089958301187,
+      "std_reward": 23.42375083974439
     },
     "reward_constant": {
-      "num_episodes": 150,
+      "num_episodes": 300,
       "avg_length": 25.0,
       "std_length": 0.0,
-      "avg_reward": 2549.5088626390116,
-      "std_reward": 436.98360909683015
+      "avg_reward": 2184.3663996162586,
+      "std_reward": 406.5830682253047
     },
     "observation_sign_flip": {
-      "num_episodes": 150,
+      "num_episodes": 300,
       "avg_length": 25.0,
       "std_length": 0.0,
-      "avg_reward": -64.19684964407999,
-      "std_reward": 17.767309565250585
+      "avg_reward": -77.45804426127924,
+      "std_reward": 20.654316842016506
     },
     "extreme_obs_noise": {
-      "num_episodes": 150,
+      "num_episodes": 300,
       "avg_length": 25.0,
       "std_length": 0.0,
-      "avg_reward": -66.52990971731522,
-      "std_reward": 15.177978085578458
+      "avg_reward": -78.48189257489263,
+      "std_reward": 23.115619654757637
     }
   }
 }
